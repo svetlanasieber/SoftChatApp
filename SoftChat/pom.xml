@@ -79,7 +79,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-crypto</artifactId>
-            <version>6.1.5</version>
+            <version>6.3.8</version>
         </dependency>
         <dependency>
             <groupId>jakarta.persistence</groupId>
@@ -94,7 +94,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>11.0.2</version>
+            <version>11.0.3</version>
         </dependency>
         <dependency>
             <groupId>jakarta.validation</groupId>
